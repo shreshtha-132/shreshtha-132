@@ -18,28 +18,64 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreshtha-132&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧩 LeetCode Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/shreshthakumargupta?theme=radical&ext=heatmap)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shreshthakumargupta?theme=radical&ext=heatmap)](https://leetcode.com/u/shreshthakumargupta/)
 
 ## 🏅 LeetCode Badges
 <p align="left">
-  <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="80">
-  <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="80">
-  <img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80">
-  <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80">
-  <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="80">
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/lg365.png" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/200.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/DS_I.png" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202504.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202505.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202506.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/202507.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-50.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="80">
+  </a>
+  <a href="https://leetcode.com/u/shreshthakumargupta/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="80">
+  </a>
 </p>
 
 
