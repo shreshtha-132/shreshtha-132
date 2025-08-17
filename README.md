@@ -18,7 +18,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreshtha-132&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🧩 LeetCode Progress
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shreshthakumargupta?theme=radical&ext=heatmap)](https://leetcode.com/u/shreshthakumargupta/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shreshthakumargupta?theme=radical&ext=heatmap)](https://leetcode.com/shreshthakumargupta/)
 
 ## 🏅 LeetCode Badges
 <p align="left">
