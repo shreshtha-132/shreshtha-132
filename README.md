@@ -1,5 +1,5 @@
 # ​ About Me:
-💼 I am currently working on game development at Aristocrat in C++ and exploring Generative AI with FastAPI  
+💼 I am currently working on game development at Aristocrat in C++ and exploring Generative AI with Python(Flask/FastAPI)  
 🤝 I am looking to collaborate on hackathons and creative problem-solving projects  
 🆘 I am looking for help with scaling GenAI applications for real-world use  
 📚 I am currently learning advanced C++ game engine concepts and AI integration  
